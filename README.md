@@ -1,1 +1,1 @@
-# classifications_of_churn_customers
+# Сlassifications_of_churn_customers
